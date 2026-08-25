@@ -87,26 +87,27 @@
 
 <br/>
 
-## 📅 Contribution Activity
+## 🐍 Contribution Snake
 
-<p align="center">
-  ## 🐍 Contribution Snake
+<h3 align="center">🐍 Contribution Snake</h3>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="github-contribution-grid-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="github-contribution-grid-snake.svg"
-  />
-  <img
-    alt="github contribution grid snake animation"
-    src="github-contribution-grid-snake.svg"
-  />
-</picture>
-</p>
+<div align="center">
+  <picture>
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="github-contribution-grid-snake-dark.svg?v=1"
+    />
+    <source
+      media="(prefers-color-scheme: light)"
+      srcset="github-contribution-grid-snake.svg?v=1"
+    />
+    <img
+      src="github-contribution-grid-snake.svg?v=1"
+      alt="GitHub Contribution Snake"
+      width="100%"
+    />
+  </picture>
+</div>
 
 ## 🤝 Connect With Me
 
