@@ -89,8 +89,6 @@
 
 ## 🐍 Contribution Snake
 
-<h3 align="center">🐍 Contribution Snake</h3>
-
 <div align="center">
   <picture>
     <source
