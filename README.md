@@ -8,12 +8,12 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=EC4899&center=true&vCenter=true&width=560&lines=SELECT+insight+FROM+data+WHERE+noise+%3D+0%3B;Dashboards+%E2%80%A2+SQL+%E2%80%A2+Storytelling;Turning+Data+Into+Insights+That+Drive+Decisions." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=EC4899&center=true&vCenter=true&width=560&lines=SELECT+insight+FROM+data+WHERE+nois[...]
 
 <br/><br/>
 
 <a href="mailto:klofficial30@gmail.com"><img src="https://img.shields.io/badge/Email-klofficial30%40gmail.com-ec4899?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1c0f33" alt="Email"/></a>
-<a href="https://github.com/KhushiLamba-Analytics"><img src="https://img.shields.io/badge/GitHub-KhushiLamba--Analytics-a855f7?style=for-the-badge&logo=github&logoColor=white&labelColor=1c0f33" alt="GitHub"/></a>
+<a href="https://github.com/KhushiLamba-Analytics"><img src="https://img.shields.io/badge/GitHub-KhushiLamba--Analytics-a855f7?style=for-the-badge&logo=github&logoColor=white&labelColor=1c0f33" alt="G[...]
 <img src="https://komarev.com/ghpvc/?username=KhushiLamba-Analytics&style=for-the-badge&color=ec4899&labelColor=1c0f33&label=PROFILE+VIEWS" alt="Profile Views"/>
 
 </div>
@@ -34,7 +34,7 @@
 - ⚡ Fun fact: I debug faster with coffee. It's basically a dependency.
 - 📫 Reach me at **klofficial30@gmail.com**
 
-> *"Turning Data Into Insights That Drive Better Decisions."*
+> *"Turning Data Into Insights That Drive Better Decisions"*
 
 <br/>
 
