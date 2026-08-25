@@ -89,18 +89,20 @@
 
 ## 🐍 Contribution Snake
 
+<h3 align="center">🐍 Contribution Snake</h3>
+
 <div align="center">
   <picture>
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="github-contribution-grid-snake-dark.svg?v=1"
+      srcset="https://raw.githubusercontent.com/KhushiLamba-Analytics/Khushi-Lamba/output/github-contribution-grid-snake-dark.svg?v=1"
     />
     <source
       media="(prefers-color-scheme: light)"
-      srcset="github-contribution-grid-snake.svg?v=1"
+      srcset="https://raw.githubusercontent.com/KhushiLamba-Analytics/Khushi-Lamba/output/github-contribution-grid-snake.svg?v=1"
     />
     <img
-      src="github-contribution-grid-snake.svg?v=1"
+      src="https://raw.githubusercontent.com/KhushiLamba-Analytics/Khushi-Lamba/output/github-contribution-grid-snake.svg?v=1"
       alt="GitHub Contribution Snake"
       width="100%"
     />
