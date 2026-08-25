@@ -85,10 +85,12 @@
 
 <br/>
 
+<br/>
+
 ## 📅 Contribution Activity
 
 <p align="center">
-  <img src="./github-snake.yml" alt="GitHub Contribution Snake">
+  <img src="https://raw.githubusercontent.com/KhushiLamba-Analytics/KhushiLamba-Analytics/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </p>
 
 <br/>
