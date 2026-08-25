@@ -8,7 +8,7 @@
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=EC4899&center=true&vCenter=true&width=560&lines=SELECT+insight+FROM+data+WHERE+noise%3Dfalse;Transforming+SQL+dashboards+into+storytelling;Building+data+driven+decisions">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=EC4899&center=true&vCenter=true&width=560&lines=SELECT+insight+FROM+data+WHERE+noise%3Dfalse;Transforming+SQL+dashboards+into+storytelling;Turning+Data+Into+Insights+That+Drive+Better+Decisions">
 
 <br/><br/>
 
