@@ -93,8 +93,6 @@
   <img src="https://raw.githubusercontent.com/KhushiLamba-Analytics/KhushiLamba-Analytics/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
 </p>
 
-<br/>
-
 ## 🤝 Connect With Me
 
 <div align="center">
