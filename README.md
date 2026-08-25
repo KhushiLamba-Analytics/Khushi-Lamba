@@ -90,7 +90,22 @@
 ## 📅 Contribution Activity
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/KhushiLamba-Analytics/Khushi-Lamba/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake">
+  ## 🐍 Contribution Snake
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="github-contribution-grid-snake.svg"
+  />
+</picture>
 </p>
 
 ## 🤝 Connect With Me
