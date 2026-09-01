@@ -66,7 +66,6 @@
 | 🦠 **COVID-19 Data Visualization** | Developed interactive time-series visualizations to communicate COVID-19 trends and public-health insights. | `JavaScript` `D3.js` |
 | ⚙️ **SQL Query Optimizer Notes** | Documented practical SQL optimization techniques, query-tuning patterns, and performance benchmarks. | `SQL` `Node.js` |
 
-*Replace these rows with your real repos — link the project name to the repo URL.*
 
 </div>
 
