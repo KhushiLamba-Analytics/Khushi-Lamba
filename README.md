@@ -57,12 +57,14 @@
 
 <div align="center">
 
-| Project | Description | Stack |
+## 📌 Featured Projects
+
+| Project | What I Built | Tech Stack |
 |---|---|---|
-| 📈 **Sales Performance Dashboard** | Interactive dashboard tracking revenue, regional trends & KPIs | `SQL` `React` `Chart.js` |
-| 🧮 **Customer Churn Analysis** | Exploratory analysis + model to flag at-risk customers | `Python` `SQL` |
-| 🦠 **COVID-19 Data Visualization** | Public-health data pipeline with time-series visual storytelling | `JavaScript` `D3.js` |
-| ⚙️ **SQL Query Optimizer Notes** | A living playbook of query tuning patterns & benchmarks | `SQL` `Node.js` |
+| 📈 **Sales Performance Dashboard** | Built an interactive dashboard to monitor revenue, regional performance, sales trends, and business KPIs. | `SQL` `React` `Chart.js` |
+| 🧮 **Customer Churn Analysis** | Analyzed customer behavior, identified churn patterns, and developed a model to flag high-risk customers. | `Python` `SQL` |
+| 🦠 **COVID-19 Data Visualization** | Developed interactive time-series visualizations to communicate COVID-19 trends and public-health insights. | `JavaScript` `D3.js` |
+| ⚙️ **SQL Query Optimizer Notes** | Documented practical SQL optimization techniques, query-tuning patterns, and performance benchmarks. | `SQL` `Node.js` |
 
 *Replace these rows with your real repos — link the project name to the repo URL.*
 
