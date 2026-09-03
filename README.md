@@ -61,10 +61,10 @@
 
 | Project | What I Built | Tech Stack |
 |---|---|---|
-| 📈 **Sales Performance Dashboard** | Built an interactive dashboard to monitor revenue, regional performance, sales trends, and business KPIs. | `SQL` `React` `Chart.js` |
-| 🧮 **Customer Churn Analysis** | Analyzed customer behavior, identified churn patterns, and developed a model to flag high-risk customers. | `Python` `SQL` |
-| 🦠 **COVID-19 Data Visualization** | Developed interactive time-series visualizations to communicate COVID-19 trends and public-health insights. | `JavaScript` `D3.js` |
-| ⚙️ **SQL Query Optimizer Notes** | Documented practical SQL optimization techniques, query-tuning patterns, and performance benchmarks. | `SQL` `Node.js` |
+| 🏦 **Banking & FinTech Analytics** | Built an end-to-end analytics solution to analyze transactions, customers, loans, fraud, branch performance, and financial KPIs. | `Excel` `SQL` `Python` `Power BI` |
+| 🛒 **E-Commerce Sales Analytics** | Analyzed sales, revenue, profit, customers, products, and regional performance to uncover actionable business insights. | `SQL` `Python` `Power BI` |
+| 👥 **HR Talent Intelligence Analysis** | Analyzed hiring trends, job roles, skills, salaries, locations, and experience to identify workforce and recruitment insights. | `Excel` `SQL` `Python` `Power BI` |
+| 📈 **Sales Performance Dashboard** | Built an interactive dashboard to monitor revenue, regional performance, sales trends, and key business KPIs. | `SQL` `React` `Chart.js` |
 
 
 </div>
