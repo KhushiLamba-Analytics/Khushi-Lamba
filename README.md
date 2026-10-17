@@ -57,19 +57,6 @@
 
 <div align="center">
 
-## 📌 Featured Projects
-
-| Project | What I Built | Tech Stack |
-|---|---|---|
-| 🏦 **Banking & FinTech Analytics** | Built an end-to-end analytics solution to analyze transactions, customers, loans, fraud, branch performance, and financial KPIs. | `Excel` `SQL` `Python` `Power BI` |
-| 🛒 **E-Commerce Sales Analytics** | Analyzed sales, revenue, profit, customers, products, and regional performance to uncover actionable business insights. | `SQL` `Python` `Power BI` |
-| 👥 **HR Talent Intelligence Analysis** | Analyzed hiring trends, job roles, skills, salaries, locations, and experience to identify workforce and recruitment insights. | `Excel` `SQL` `Python` `Power BI` |
-| 📈 **Sales Performance Dashboard** | Built an interactive dashboard to monitor revenue, regional performance, sales trends, and key business KPIs. | `SQL` `React` `Chart.js` |
-
-
-</div>
-
-<br/>
 
 ## 📊 GitHub Stats
 
